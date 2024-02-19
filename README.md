@@ -1,9 +1,14 @@
-### Hi there 👋
+## Ahmed Samy - Software Engineer
 <img src="assets/Oracle-Main.jpg" alt="Main images car heading twards oracle learning badge">
+<!-- ======== Icons Section ======== -->
+<a href="https://www.linkedin.com/in/java-msdt"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://www.instagram.com/serenitydiver/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://www.youtube.com/@ExploringTogether4400"><img src="https://img.shields.io/badge/YouTube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 
-**JAVA-MSDT/JAVA-MSDT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ======== Body Section ======== -->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
