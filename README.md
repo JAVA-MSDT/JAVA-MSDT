@@ -1,4 +1,4 @@
-## Ahmed Samy - Software Engineer
+# Ahmed Samy - Software Engineer
 <img src="assets/Oracle-Main.jpg" alt="Main images car heading twards oracle learning badge">
 <!-- ======== Icons Section ======== -->
 <a href="https://www.linkedin.com/in/java-msdt"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
