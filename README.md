@@ -15,10 +15,11 @@
   
 ## 🌐 Social Contacts:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/java-msdt)
-[![Instgram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/serenitydiver/)
-[![YouTube](https://img.shields.io/badge/youTube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ExploringTogether4400)
-[![Facebook](https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AhmedSamySerenity)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/java-msdt/)
+[![YouTube: Status Code - Technology](https://img.shields.io/badge/YouTube-Status%20Code%20Tech-red?logo=youtube)](https://www.youtube.com/@Status-Code)
+[![YouTube: Exploration Echoes](https://img.shields.io/badge/YouTube-Exploration%20Echoes-red?logo=youtube)](https://www.youtube.com/@Exploration-Echoes)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram)](https://www.instagram.com/serenitydiver)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook)](https://www.facebook.com/AhmedSamySerenity)
 
 <br/>
 
